@@ -1,6 +1,6 @@
 # Haruiium mplstyle - A Vibrant mplstyle
 
-This is a mplstyle made by myseld for future plot export.
+This is a mplstyle made by myself for future plot export.
 
 ## Light theme: LightSide
 
