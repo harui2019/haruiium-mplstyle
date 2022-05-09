@@ -2,7 +2,7 @@
 text.color: black
 
 ### AXES
-axes.facecolor: EEEEEE   # axes background color
+axes.facecolor: EEEEEE80   # axes background color
 axes.edgecolor: 7E7E7E   # axes edge color
 axes.labelcolor: 000000D9
 axes.prop_cycle: cycler('color', ['348ABD', 'A60628', '7A68A6', '467821', 'D55E00', 'CC79A7', '56B4E9', '009E73', 'C5BB36', '002D47'])
@@ -23,8 +23,8 @@ legend.edgecolor: 7E7E7E   # legend edge color (when 'inherit' uses axes.edgecol
 #TODO: notebook ignores this
 figure.dpi: 800
 savefig.format: png
-figure.facecolor: FFFFFFC7    # figure facecolor
-savefig.facecolor: FFFFFFC7  # figure facecolor
+figure.facecolor: FFFFFF80    # figure facecolor
+savefig.facecolor: FFFFFF80  # figure facecolor
 
 ### Text
 font.family: sans-serif
