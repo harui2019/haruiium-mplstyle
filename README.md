@@ -1,4 +1,4 @@
-# Haruiium mplstyle - A Vibrant mplstyle
+# Haruiium mplstyle - A Semi-transparent mplstyle
 
 This is a mplstyle made by myself for future plot export.
 
