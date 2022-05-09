@@ -13,6 +13,7 @@ ytick.color: FFFFFFD9      # color of the tick labels
 
 ### GRIDS
 grid.color: FFFFFF   # grid color
+grid.linestyle: --
 
 ### Legend
 legend.facecolor: 202124AC   # legend background color (when 'inherit' uses axes.facecolor)
